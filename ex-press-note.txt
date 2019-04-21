@@ -1,0 +1,32 @@
+1. Mô hình web client - server.
+- web api - server return data
+- web view - server return html view + data
+
+
+application progaming interface
+
+
+----------------------------
+1. Express is one framework Nodejs
+- Advantages:
++ Stability
++ Community
++ Understandable
+Hapijs, Koa, Adonis, totaljs... Nestjs
+- Disadavantages:
++ Weak security
++ Wasting time
++ Performance - benchmark
+
+
+
+
+
+
+
+
+
+
+
+
+

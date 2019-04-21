@@ -1,0 +1,14 @@
+1. POST /api/v1/users
+Create new user to user.json file.
+
+2. GET /api/v1/users
+Get list of user from user.json file.
+
+3. PUT /api/v1/users/:id
+Update one user by the given id in user.json file.
+
+4. DELETE /api/v1/users/:id
+Delete one user by the given id in user.json file.
+
+5. GET /api/v1/users/:id
+Get info of one user by the given id

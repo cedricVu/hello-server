@@ -1,0 +1,29 @@
+RESTful API: Application programing Interface
+1. Method: GET, POST, PUT ,PATCH, DELETE
+GET: Getting data from server.
+POST: Create new data to server.
+PUT: Update existing data to server.
+PATCH: Update existing data to server.
+
+{
+	username: 'tuanem',
+	password: 'gay khong phai toi',
+	gender: 'male'
+}
+
+2. Naming API
+- Naming api: say-hello
+- https://restfulapi.net/resource-naming/
+
+3. Versioning API
+/api/v1/...
+
+4. Http status code
+https://www.restapitutorial.com/httpstatuscodes.html
+
+200: success
+404: not found
+401: not authorization
+400: return bad request
+
+CRUD = Create Read Update Delete
